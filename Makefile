@@ -13,3 +13,7 @@ package-install:
 .PHONY: brain-games
 brain-games:
 	uv run brain-games
+
+.PHONY: lint
+lint:
+	uv run ruff check brain_games
