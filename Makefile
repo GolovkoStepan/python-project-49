@@ -8,7 +8,7 @@ build:
 
 .PHONY: package-install
 package-install:
-	uv tool install dist/*.whl
+	uv tool install --force dist/*.whl
 
 .PHONY: brain-games
 brain-games:
