@@ -35,6 +35,7 @@ Congratulations, Roman!
 ```bash
 brain-games # Приветствие
 brain-even # Определение четного числа
+brain-calc # Калькулятор
 ```
 
 Описание команд make:
