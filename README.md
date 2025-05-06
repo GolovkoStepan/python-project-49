@@ -36,6 +36,7 @@ Congratulations, Roman!
 brain-games # Приветствие
 brain-even # Определение четного числа
 brain-calc # Калькулятор
+brain-gcd # Определение наибольшего общего делителя
 ```
 
 Описание команд make:
